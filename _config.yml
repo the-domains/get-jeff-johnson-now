@@ -1,0 +1,28 @@
+name: Get Jeff Johnson NOW
+favicon: null
+layout_spectrum: 0.046238933224231005
+typography_spectrum: 0.852975346846506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9952554288320243
+  lightness: 0.6735914070159197
+  saturation: 0.9930513151921332
+  rhythmicContrast: 0.7324226929340512
+purpose: []
